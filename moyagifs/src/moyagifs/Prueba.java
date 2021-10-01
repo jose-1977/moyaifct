@@ -6,6 +6,7 @@ public class Prueba {
 		// TODO Auto-generated method stub
 	System.out.println("esto es un prueba");
 		System.out.println("esto esotra prueba");
+		System.out.println("este es un mensaje de mao");
 	}
 
 }
